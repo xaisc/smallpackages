@@ -12,6 +12,6 @@ PKG_NAME:=luci-app-adbyby-plus-wgets-ssl
 PKG_VERSION:=2.0
 PKG_RELEASE:=73
 
-include ../../luci.mk
+include $(TOPDIR)/feeds/luci/luci.mk
 
 # call BuildPackage - OpenWrt buildroot signature
