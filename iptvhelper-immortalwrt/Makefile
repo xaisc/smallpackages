@@ -4,7 +4,7 @@
 
 include $(TOPDIR)/rules.mk
 
-PKG_NAME:=iptvhelper-immortalwrt
+PKG_NAME:=iptvhelper
 PKG_VERSION:=0.1.1
 PKG_RELEASE:=1
 
